@@ -7,8 +7,8 @@ experience:
     company_url: https://inspirehep.net/authors/984146?ui-citation-summary=true&ui-exclude-self-citations=true
     company_logo: ""
     location: University of Chicago
-    date_start: July 2022
-    date_end: Sep 2022
+    date_start: 2022-07-01
+    date_end: 2022-09-30
     description: |-2
         Responsibilities include:
         
