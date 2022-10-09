@@ -4,9 +4,9 @@ role: Undergraduate
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - SMEFT
+  - EFT
   - Machine Learning
-  - Complex System
+  - Entanglement
 social:
   - icon: envelope
     icon_pack: fas
