@@ -1,13 +1,7 @@
 ---
-widget: index
-widget_id: index
+# Homepage
+type: widget_page
+
+# Homepage is headless, other widget pages are not.
 headless: true
-weight: 10
-title: index
-active: true
-design:
-  columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
 ---
