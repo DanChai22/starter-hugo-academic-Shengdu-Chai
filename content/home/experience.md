@@ -8,7 +8,7 @@ experience:
     company_logo: ""
     location: University of Chicago
     date_start: July 2022
-    date_end: Sept.2022
+    date_end: Sep 2022
     description: |-2
         Responsibilities include:
         
