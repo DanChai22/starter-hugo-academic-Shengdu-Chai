@@ -12,6 +12,7 @@ experience:
     description: |-2
         * This project aims to explain both the new W mass reported by Fermi Lab and the long existed discrepancy of forward-backward asymmetry by introducing new vector-like quarks
         * Considering the oblique correction and then did the global fitting to find the reasonable mass of the new particles
+
   - title: Probing BSM effects with machine learning
       company: Research Assistant to Associate Professor Jiayin Gu
       company_url: https://inspirehep.net/authors/1274618?ui-citation-summary=true&ui-exclude-self-citations=true
