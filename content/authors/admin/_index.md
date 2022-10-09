@@ -1,7 +1,7 @@
 ---
 title: "Shengdu Chai "
 role: ""
-avatar_filename: wechatimg294.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
