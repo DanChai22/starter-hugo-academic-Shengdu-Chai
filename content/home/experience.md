@@ -2,19 +2,18 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
-    date_end: ""
+  - title: Explanation of New CDF W Mass
+    company: Research Assistant to Professor Liantao Wang
+    company_url: https://inspirehep.net/authors/984146?ui-citation-summary=true&ui-exclude-self-citations=true
+    company_logo: ""
+    location: University of Chicago
+    date_start: July 2022
+    date_end: Sept.2022
     description: |-2
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * This project aims to explain both the new W mass reported by Fermi Lab and the long existed discrepancy of forward-backward asymmetry by introducing new vector-like quarks
+        * Considering the oblique correction and then did the global fitting to find the reasonable mass of the new particles
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
