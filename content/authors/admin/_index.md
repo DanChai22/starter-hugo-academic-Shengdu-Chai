@@ -1,6 +1,6 @@
 ---
 title: "Shengdu Chai "
-role: ""
+role: "1"
 avatar_filename: avatar.jpg
 bio: ""
 interests:
