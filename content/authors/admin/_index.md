@@ -4,7 +4,8 @@ role: Undergraduate
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - EFT
+  - BSM Physics
+  - SMEFT
   - Machine Learning
   - Entanglement
 social:
