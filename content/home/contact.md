@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: sdchai@fudan.edu.cn
+  phone: (+86)13968589013
   address:
     street: 450 Serra Mall
     city: Stanford
@@ -47,10 +47,10 @@ content:
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/Twitter'
-    - icon: video
+<!--     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://zoom.com' -->
 
 design:
   columns: '2'
