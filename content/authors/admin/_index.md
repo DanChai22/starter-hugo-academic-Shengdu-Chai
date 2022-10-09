@@ -1,6 +1,6 @@
 ---
 title: "Shengdu Chai "
-role: "1"
+role: Undergraduate
 avatar_filename: avatar.jpg
 bio: ""
 interests:
