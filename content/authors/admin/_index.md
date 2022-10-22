@@ -2,7 +2,7 @@
 title: "Shengdu Chai "
 role: Undergraduate
 avatar_filename: avatar.jpg
-bio: asasa
+bio: physics students
 interests:
   - BSM Physics
   - SMEFT
