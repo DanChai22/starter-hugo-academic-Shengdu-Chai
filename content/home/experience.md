@@ -31,10 +31,8 @@ experience:
     date_start: 2021-03-01
     date_end: 2022-06-30
     description: |-2
-        * This project aims to learn the relation with nonlinear differential equations and chaos and find a way to describe
-quantum chaos.
-        * Simulate the Chua’s Circuit by Mathematica to generalize the character of Nonlinear Differential Equations
-and Classical Chaos.
+        * This project aims to learn the relation with nonlinear differential equations and chaos and find a way to describe quantum chaos.
+        * Simulate the Chua’s Circuit by Mathematica to generalize the character of Nonlinear Differential Equations and Classical Chaos.
         * Calculate the Spectral Form Factor of Gaussian unitary ensemble (GUE), one of the ensembles of Random Matrix Theory (RMT) which can be a signature of Quantum Chaos.
         * Be familiar with SYK Model.
   - title: Saxon Bowl
