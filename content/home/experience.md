@@ -23,6 +23,20 @@ experience:
         * This project aims to apply machine learning techniques to the phenomenological analyses of the Standard Model Effective Field Theory (SMEFT), with a focus on the measurements at future lepton colliders.
         * With simulations of e+e-→WW from MadGraph5, using machine learning to find the likelihood ratio in terms of the Wilson coefficients of dimension-six operators in this process
         * Future plans involve the applications of these methods to other processes, such as top-pair productions.
+  - title: Nonlinear Differential Equations and Chaos
+    company: Course Project with Associate Professor Yang Zhou
+    company_url: https://inspirehep.net/authors/1242523?ui-citation-summary=true&ui-exclude-self-citations=true
+    company_logo: ""
+    location: Fudan University
+    date_start: 2021-03-01
+    date_end: 2022-06-30
+    description: |-2
+        * This project aims to learn the relation with nonlinear differential equations and chaos and find a way to describe
+quantum chaos.
+        * Simulate the Chua’s Circuit by Mathematica to generalize the character of Nonlinear Differential Equations
+and Classical Chaos.
+        * Calculate the Spectral Form Factor of Gaussian unitary ensemble (GUE), one of the ensembles of Random Matrix Theory (RMT) which can be a signature of Quantum Chaos.
+        * Be familiar with SYK Model.
   - title: Saxon Bowl
     company: Research Assistant to Professor Yongkang Le
     company_url: ""
