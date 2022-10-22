@@ -40,6 +40,6 @@ highlight_name: true
 first_name: Alice
 email: sdchai@fudan.edu.cn
 ---
-I﻿'m an undergraduate student at Fudan University studying Physics.
+I﻿'m an undergraduate student at Fudan University studying Physics. I have broad interests across many aspects of particle physics, field theory, and machine learning, and I enjoy many forms of talking about physics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shengdu_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
