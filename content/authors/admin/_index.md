@@ -42,4 +42,4 @@ email: sdchai@fudan.edu.cn
 ---
 I﻿'m an undergraduate student at Fudan University studying Physics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
