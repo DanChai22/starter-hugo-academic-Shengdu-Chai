@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Probing BSM effects in e+ e− → WW with machine learning
+summary: Apply machine learning techniques to the phenomenological analyses of the Standard Model Effective Field Theory (SMEFT), with a focus on the measurements at future lepton colliders. A typical process of e+ e- -> W W was studied.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
