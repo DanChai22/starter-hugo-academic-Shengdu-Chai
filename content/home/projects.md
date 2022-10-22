@@ -12,8 +12,8 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: HEP-PH
+      tag: HEP-PH
     - name: Other
       tag: Demo
 design:
