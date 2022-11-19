@@ -38,9 +38,11 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/ShengduChai
+  - name: Slides
+    url: https://indico.ihep.ac.cn/event/17020/contributions/119266/attachments/64351/75173/machine_learning_on_eeww_CEPC.pdf
 url_code: ''
 url_pdf: ''
-url_slides: 'https://github.com/DanChai22/Talk/blob/main/machine_learning_on_eeww.pdf'
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
