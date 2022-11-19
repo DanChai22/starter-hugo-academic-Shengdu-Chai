@@ -38,7 +38,7 @@ superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: sdchai@fudan.edu.cn
+email: sdchai19@fudan.edu.cn
 ---
 I﻿'m an undergraduate student at Fudan University studying Physics. I have broad interests across many aspects of particle physics, field theory, and machine learning, and I enjoy many forms of talking about physics.
 
