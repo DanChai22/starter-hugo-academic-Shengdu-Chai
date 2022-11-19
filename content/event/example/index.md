@@ -41,7 +41,7 @@ links:
     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://github.com/DanChai22/Talk/blob/main/machine_learning_on_eeww.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
