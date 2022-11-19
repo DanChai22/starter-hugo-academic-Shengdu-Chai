@@ -21,7 +21,7 @@ experience:
     date_end: 2022-09-30
     description: |-2
         * This project aims to apply machine learning techniques to the phenomenological analyses of the Standard Model Effective Field Theory (SMEFT), with a focus on the measurements at future lepton colliders.
-        * With simulations of {{< math >}}$e^{+} e^{-}\to W W${{< /math >}}  from MadGraph5, using machine learning to find the likelihood ratio in terms of the Wilson coefficients of dimension-six operators in this process
+        * With simulations of $e^{+} e^{-}\to W W$ from MadGraph5, using machine learning to find the likelihood ratio in terms of the Wilson coefficients of dimension-six operators in this process
         * Future plans involve the applications of these methods to other processes, such as top-pair productions.
   - title: Nonlinear Differential Equations and Chaos
     company: Course Project with Associate Professor Yang Zhou
