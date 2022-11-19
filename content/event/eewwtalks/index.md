@@ -1,13 +1,13 @@
 ---
-title: Probing
+title: Probing BSM effects in {{< math >}}$e^{+}e^{-} \to WW${{< /math >}} with machine learning
 
 event: Wowchemy Conference
-event_url: https://example.org
+event_url: https://cepctalks.org
 
-location: Wowchemy HQ
+location: Beijing, China
 address:
   street: 450 Serra Mall
-  city: Stanford
+  city: Beijing
   region: CA
   postcode: '94305'
   country: United States
