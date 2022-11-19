@@ -1,24 +1,23 @@
 ---
-title: Probing BSM effects in {{< math >}}$e^{+}e^{-} \to WW${{< /math >}} with machine learning
+title: Probing BSM effects in $e^{+}e^{-} \to WW$ with machine learning
 
-event: Wowchemy Conference
-event_url: https://cepctalks.org
+event: The 2022 International Workshop on the High Energy Circular Electron Positron Collider
+event_url: https://indico.ihep.ac.cn/event/17020/
 
 location: Beijing, China
 address:
-  street: 450 Serra Mall
+  street: 19 Yuquan Rd, Shijingshan District
   city: Beijing
-  region: CA
-  postcode: '94305'
-  country: United States
+  region: Beijing
+  postcode: '100039'
+  country: China
 
 summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
-
+abstract: 'Well known for its sensitivity to BSM physics, Anomalous triple-gauge boson couplings (aTGC) can be applied to the process of $e^{+}e^{-} \to WW$ to probe BSM physics. The Tradition methods, optimal observable, cannot provide precise limits on BSM parameters when considering the initial state radiation and detector effect because it can’t give an unbiased central value of the parameters. In this talk, we will introduce machine learning methods that meet the precision needs of aTGC measurement at a Higgs factory. The numerical result shows that the boundary based on the Machine Learning is stronger than the optimal observable, and the central value is much closer to the ideal case, demonstrating their potential to improve the precision of BSM physics measurement on future colliders.'
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-10-26T10:25:00Z'
+date_end: '2022-10-26T10:50:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -30,15 +29,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  # focal_point: Right
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/ShengduChai
 url_code: ''
 url_pdf: ''
 url_slides: 'https://github.com/DanChai22/Talk/blob/main/machine_learning_on_eeww.pdf'
