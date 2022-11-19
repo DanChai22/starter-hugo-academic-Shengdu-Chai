@@ -48,7 +48,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "https://indico.ihep.ac.cn/event/17020/contributions/119266/attachments/64351/75173/machine_learning_on_eeww_CEPC.pdf"
+slides: "https://indico.ihep.ac.cn/event/17020/contributions/119266/attachments/64351/75173/machine_learning_on_eeww_CEPC.pdf"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
