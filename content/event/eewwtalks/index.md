@@ -1,5 +1,5 @@
 ---
-title: Probing BSM effects in $e^{+}e^{-} \to WW$ with machine learning
+title: Probing BSM effects in $e^{+}e^{-} \to W^{+}W^{-}$ with machine learning
 
 event: The 2022 International Workshop on the High Energy Circular Electron Positron Collider
 event_url: https://indico.ihep.ac.cn/event/17020/
@@ -12,8 +12,8 @@ address:
   postcode: '100039'
   country: China
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Well known for its sensitivity to BSM physics, Anomalous triple-gauge boson couplings (aTGC) can be applied to the process of $e^{+}e^{-} \to WW$ to probe BSM physics. The Tradition methods, optimal observable, cannot provide precise limits on BSM parameters when considering the initial state radiation and detector effect because it can’t give an unbiased central value of the parameters. In this talk, we will introduce machine learning methods that meet the precision needs of aTGC measurement at a Higgs factory. The numerical result shows that the boundary based on the Machine Learning is stronger than the optimal observable, and the central value is much closer to the ideal case, demonstrating their potential to improve the precision of BSM physics measurement on future colliders.'
+summary: 
+abstract: 'Well known for its sensitivity to BSM physics, Anomalous triple-gauge boson couplings (aTGC) can be applied to the process of $e^{+}e^{-} \to W^{+}W^{-}$ to probe BSM physics. The Tradition methods, optimal observable, cannot provide precise limits on BSM parameters when considering the initial state radiation and detector effect because it can’t give an unbiased central value of the parameters. In this talk, we will introduce machine learning methods that meet the precision needs of aTGC measurement at a Higgs factory. The numerical result shows that the boundary based on the Machine Learning is stronger than the optimal observable, and the central value is much closer to the ideal case, demonstrating their potential to improve the precision of BSM physics measurement on future colliders.'
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-10-26T10:25:00Z'
