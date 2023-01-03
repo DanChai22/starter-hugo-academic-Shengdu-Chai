@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "A New Look in the Beautiful Mirror from the W-boson Mass Measurement"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2022-12-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-12-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The W-boson mass measurement recently reported by the CDF II experiment exhibits a significant deviation from both the Standard Model prediction and previous measurements.  There is also a long-standing deviation between the Standard Model prediction of the forward-backward asymmetry of the bottom quark ($\Afb{b}$) and its measurement at the LEP experiment.  The Beautiful Mirror model, proposed to resolve the $\Afb{b}$ discrepancy, introduces vector-like quarks that modify the W-boson mass at one-loop level.  In this study, we find an interesting region in the model parameter space that could potentially explain both discrepancies, which puts the new quarks in the multi-TeV region.  This region is mostly consistent with current LHC bounds from direct searches and Higgs coupling measurements, but will be thoroughly probed at the High Luminosity LHC. As such, the Beautiful Mirror model as an explanation of the $m_W$ and  $\Afb{b}$ discrepancies could be confirmed or falsified in the near future.  
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
