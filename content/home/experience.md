@@ -10,8 +10,9 @@ experience:
     date_start: 2022-07-01
     date_end: 2022-09-30
     description: |-2
-        * This project aims to explain both the new W mass reported by Fermi Lab and the long existed discrepancy of forward-backward asymmetry by introducing new vector-like quarks
-        * Considering the oblique correction and then did the global fitting to find the reasonable mass of the new particles
+        * Explained both the new W boson mass $m_W^{\rm CDF-II}$ reported by Fermi Lab and the long existed discrepancy of forward-backward asymmetry $A_{FB}^{0,b}$ by introducing new vector-like quarks
+        * Explored the model properties by performing a global electroweak fit. Found that the model is consistent with the current direct-search limits at the LHC, the HL-LHC, can cover most of the regions of the parameter space preferred by the electroweak fit. Determined that the one-loop contribution to Higgs couplings in this model was also relevant, which is consistent on current measurement and may be excluded on future collider
+        * Determined that the mass of the exotic quark (with charge $-4/3$) is required to be below 4 TeV at the 95\% confidence level, and the best-fit point corresponded to a mass of around 1.5 TeV
   - title: Probing BSM effects with machine learning
     company: Research Assistant to Associate Professor Jiayin Gu
     company_url: https://inspirehep.net/authors/1274618?ui-citation-summary=true&ui-exclude-self-citations=true
