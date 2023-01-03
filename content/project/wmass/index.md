@@ -1,6 +1,6 @@
 ---
 title: A New Look in the Beautiful Mirror from the W-boson Mass Measurement
-summary: Apply machine learning techniques to the phenomenological analyses of the Standard Model Effective Field Theory (SMEFT), with a focus on the measurements at future lepton colliders. A typical process of $e^{+}e^{-} \to W^{+}W^{-}$ was studied.
+summary: Explain  W-boson mass($m_W^{CDF-II}$) and forward-backward asymmetry of the bottom quark($A_{FB}^{0,b}$) with the Beautiful Mirror model.
 tags:
   - HEP-PH
 date: '2016-04-27T00:00:00Z'
@@ -17,8 +17,8 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/ShengduChai
-  - name: Slides
-    url: https://indico.ihep.ac.cn/event/17020/contributions/119266/attachments/64351/75173/machine_learning_on_eeww_CEPC.pdf
+  - name: PDF
+    url: https://arxiv.org/pdf/2212.09253.pdf
 url_code: ''
 url_pdf: ''
 url_slides: ''
