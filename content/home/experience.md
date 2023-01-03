@@ -21,9 +21,10 @@ experience:
     date_start: 2021-11-01
     date_end: 2022-09-30
     description: |-2
-        * This project aims to apply machine learning techniques to the phenomenological analyses of the Standard Model Effective Field Theory (SMEFT), with a focus on the measurements at future lepton colliders.
-        * With simulations of $e^{+} e^{-}\to W W$ from MadGraph5, using machine learning to find the likelihood ratio in terms of the Wilson coefficients of dimension-six operators in this process
-        * Future plans involve the applications of these methods to other processes, such as top-pair productions.
+        * Aimed to apply machine learning techniques to the phenomenological analyses of the Standard Model Effective Field Theory (SMEFT), focusing on the measurements at future lepton colliders
+        * Performed machine learning methods with simulations of $e^{+}e^{-} \to W^{+} W^{-} $, including some systematic effects to determine the likelihood ratio in terms of the Wilson coefficients of dimension-six operators in this process. 
+        * Determined that the machine learning method performed better than the traditional methods, such as Optimal Observable, which corrected the large bias of model parameters and gave strong constraints
+        * Planned to explore the applications of these methods to other processes, such as top-pair productions, and using the more realistic datasets from colliders
   - title: Nonlinear Differential Equations and Chaos
     company: Course Project with Associate Professor Yang Zhou
     company_url: https://inspirehep.net/authors/1242523?ui-citation-summary=true&ui-exclude-self-citations=true
@@ -32,10 +33,9 @@ experience:
     date_start: 2021-03-01
     date_end: 2022-06-30
     description: |-2
-        * This project aims to learn the relation with nonlinear differential equations and chaos and find a way to describe quantum chaos.
-        * Simulate the Chua’s Circuit by Mathematica to generalize the character of Nonlinear Differential Equations and Classical Chaos.
-        * Calculate the Spectral Form Factor of Gaussian unitary ensemble (GUE), one of the ensembles of Random Matrix Theory (RMT) which can be a signature of Quantum Chaos.
-        * Be familiar with SYK Model.
+        * Elucidated the relationship between nonlinear differential equations and chaos and found a way to describe quantum chaos
+        * Simulated the Chua’s Circuit by Mathematica to generalize the characteristic of Nonlinear Differential Equations and Classical Chaos
+        * Calculated the Spectral Form Factor of the Gaussian unitary ensemble (GUE), one of the ensembles of Random Matrix Theory (RMT), which can be a signature of Quantum Chaos
   - title: Saxon Bowl
     company: Research Assistant to Professor Yongkang Le
     company_url: ""
@@ -44,9 +44,9 @@ experience:
     date_start: 2019-10-01
     date_end: 2020-08-30
     description: |-2
-        * This project aims to find the parameters that determine the time of the sinking of a bowl with a hole in its base.
-        * Build the experimental device and simulating the process of sinking by COMSOL.
-        * The results are obtained by using the Bernoulli equation with losses and solving the differentia equations using numerical simulation by Mathematica.
+        * Aimed to find the parameters that determined the time of the sinking of a bowl with a hole in its base
+        * Built the experimental device and simulated the sinking process via COMSOL
+        * Obtained results via using the Bernoulli equation with losses and solved the differential equations using numerical simulation by Mathematica
 widget_id: Research Experience 1
 headless: true
 weight: 40
