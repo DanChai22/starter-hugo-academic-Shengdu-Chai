@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: physics students
 interests:
   - BSM Physics
-  - SMEFT
-  - Machine Learning
-  - Entanglement
+  - collider phenomenology of the Standard Model Effective Field Theory
+  - application of Machine Learning in HEP
+  - Dark Matter
 social:
   - icon: envelope
     icon_pack: fas
