@@ -1,6 +1,6 @@
 ---
-title: Probing BSM effects in $e^{+}e^{-} \to WW$ with machine learning
-summary: Apply machine learning techniques to the phenomenological analyses of the Standard Model Effective Field Theory (SMEFT), with a focus on the measurements at future lepton colliders. A typical process of $e^{+}e^{-} \to WW$ was studied.
+title: Probing BSM effects in $e^{+}e^{-} \to W^{+}W^{-}$ with machine learning
+summary: Apply machine learning techniques to the phenomenological analyses of the Standard Model Effective Field Theory (SMEFT), with a focus on the measurements at future lepton colliders. A typical process of $e^{+}e^{-} \to W^{+}W^{-}$ was studied.
 tags:
   - HEP-PH
 date: '2016-04-27T00:00:00Z'
