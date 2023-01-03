@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: markdown
 widget_id: Gallery
 headless: true
@@ -10,3 +10,4 @@ design:
 ---
 
 {{< gallery album="demo" resize_options="300x300" >}}
+ -->
