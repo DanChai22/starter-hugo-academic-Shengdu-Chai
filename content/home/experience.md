@@ -3,7 +3,7 @@ widget: experience
 date_format: Jan 2006
 experience:
   - title: Explanation of New CDF W Mass
-    company: Research Assistant to Professor Liantao Wang
+    company: Research Assistant to Professor Lian-Tao Wang
     company_url: https://inspirehep.net/authors/984146?ui-citation-summary=true&ui-exclude-self-citations=true
     company_logo: ""
     location: University of Chicago
