@@ -6,7 +6,7 @@ weight: 150
 title: Gallery
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
 ---
 
 {{< gallery album="demo" resize_options="300x300" >}}
