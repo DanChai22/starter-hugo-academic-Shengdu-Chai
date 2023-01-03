@@ -1,6 +1,6 @@
 ---
 title: "A New Look in the Beautiful Mirror from the W-boson Mass Measurement"
-authors:
+authors: Shengdu Chai, Jiayin Gu, Lian-Tao Wang
 - admin
 date: "2022-12-19T00:00:00Z"
 doi: ""
