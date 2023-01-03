@@ -9,4 +9,4 @@ design:
   columns: "1"
 ---
 
-{{< gallery album="demo" resize_options="250x250" >}}
+{{< gallery album="demo" resize_options="300x300" >}}
