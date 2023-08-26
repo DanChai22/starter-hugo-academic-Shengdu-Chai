@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: physics students
 interests:
   - CMT
-  - AI
-  - Ai4sci or sci4ai
+  - Ai
+  - Ai4Sci or Sci4Ai
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,6 +39,6 @@ highlight_name: true
 first_name: Shengdu
 email: sdchai19@fudan.edu.cn
 ---
-I﻿'m an undergraduate student at Fudan University studying Physics. I have broad interests across many aspects of physics, field theory, and machine learning, and I enjoy many forms of talking about physics.
+I'm an undergraduate student at Fudan University studying Physics. I have broad interests across many aspects of physics, field theory, and machine learning, and I enjoy many forms of talking about physics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shengdu_CV_new.pdf" "newtab" >}}resumé{{< /staticref >}}.
