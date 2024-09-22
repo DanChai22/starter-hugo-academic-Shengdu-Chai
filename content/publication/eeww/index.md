@@ -1,5 +1,5 @@
 ---
-title: "From optimal observables to machine learning: an effective-field-theory analysis of $e^{+}e^{-} \to W^{+}W^{-}$ at future lepton colliders"
+title: "From optimal observables to machine learning: an effective-field-theory analysis of $e^{+}e^{-} \rightarrow W^{+}W^{-}$ at future lepton colliders"
 authors: 
 - admin
 - Jiayin Gu
