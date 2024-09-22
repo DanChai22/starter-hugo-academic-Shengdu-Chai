@@ -1,14 +1,14 @@
----
-title: "Accommodating the CDF W-boson mass measurement in the beautiful mirror model"
+
+title: "From optimal observables to machine learning: an effective-field-theory analysis of $e^{+}e^{-} \to W^{+}W^{-}$ at future lepton colliders"
 authors: 
 - admin
 - Jiayin Gu
-- Lian-Tao Wang
-date: "2023-05-09T00:00:00Z"
-doi: "https://doi.org/10.1103/PhysRevD.107.095013"
+- Lingfeng Li
+date: "2024-05-24T00:01:00Z"
+doi: "https://doi.org/10.1007/JHEP05(2024)292"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-09T00:00:00Z"
+publishDate: "2024-05-24T00:01:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,10 +17,10 @@ publishDate: "2023-05-09T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Physical Review D"
-publication_short: "PRD"
+publication: "Journal of High Energy Physics"
+publication_short: "JHEP"
 
-abstract: The W-boson mass measurement recently reported by the CDF II experiment exhibits a significant deviation from both the Standard Model prediction and previous measurements. There is also a long-standing deviation between the Standard Model prediction of the forward-backward asymmetry of the bottom quark ($A_{FB}^{0,b}$) and its measurement at the LEP experiment. The Beautiful Mirror model, proposed to resolve the $A_{FB}^{0,b}$ discrepancy, introduces vector-like quarks that modify the W-boson mass at one-loop level. In this study, we find an interesting region in the model parameter space that could potentially explain both discrepancies, which puts the new quarks in the multi-TeV region. This region is mostly consistent with current LHC bounds from direct searches and Higgs coupling measurements, but will be thoroughly probed at the High Luminosity LHC. As such, the Beautiful Mirror model as an explanation of the $m_W$ and $A_{FB}^{0,b}$ discrepancies could be confirmed or falsified in the near future.
+abstract: We apply machine-learning techniques to the effective-field-theory analysis of the $e^{+}e^{-} \to W^{+}W^{-}$ processes at future lepton colliders, and demonstrate their advantages in comparison with conventional methods, such as optimal observables. In particular, we show that machine-learning methods are more robust to detector effects and backgrounds, and could in principle produce unbiased results with sufficient Monte Carlo simulation samples that accurately describe experiments. This is crucial for the analyses at future lepton colliders given the outstanding precision of the $e^{+}e^{-} \to W^{+}W^{-}$ measurement (~ $10^{-4}$ in terms of anomalous triple gauge couplings or even better) that can be reached. Our framework can be generalized to other effective-field-theory analyses, such as the one of $e^{+}e^{-} \to t\bar{t}$ or similar processes at muon colliders
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -32,7 +32,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.095013
+url_pdf: https://link.springer.com/article/10.1007/JHEP05(2024)292
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
@@ -54,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- wmass
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -62,5 +62,3 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
----
-
