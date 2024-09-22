@@ -42,6 +42,18 @@ highlight_name: true
 first_name: Shengdu
 email: sdchai19@fudan.edu.cn
 ---
-I'm an undergraduate student at Fudan University studying Physics. I have broad interests across many aspects of physics, field theory, and machine learning, and I enjoy many forms of talking about physics.
+Hi 👋 Shengdu Chai here.
+
+- 🏃‍ Currently working on **AI for Science (Physics)**.
+    - Graduate student at Fudan University.
+        - Advisor: [Xincheng Xie @ Fudan](https://icqm.pku.edu.cn/yw/directory/faculty/237476.htm).
+        - Current a first year grad student
+    - 🪜 Neural Network Quantum State.
+        - Advisor: [Lei Wang @ CAS](https://scholar.google.com/citations?user=t4m9TCIAAAAJ&hl=en) and [Chen Lin @ Shanghai AI Lab](https://scholar.google.com/citations?user=rObgGWIAAAAJ&hl=en)
+    - 🔧 Past research experiences are about High Energy Physics, including a work on W mass and Simulation Based Inference
+        - Advisor: [Jiayin Gu @ Fudan](https://inspirehep.net/authors/1274618?ui-citation-summary=true) and [Lian-Tao Wang @ UChicago](https://inspirehep.net/authors/984146?ui-citation-summary=true)
+        - You can find them on my [inspire](https://inspirehep.net/authors/2617322?ui-citation-summary=true)
+- 📧 Email address: [sdchai24@m.fudan.edu.cn](mailto:sdchai24@m.fudan.edu.cn)
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shengdu_CV_new.pdf" "newtab" >}}resumé{{< /staticref >}}.
