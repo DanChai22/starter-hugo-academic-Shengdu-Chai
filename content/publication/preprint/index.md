@@ -54,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- wmass
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -63,16 +63,16 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 
-title: "Accommodating the CDF W-boson mass measurement in the beautiful mirror model"
+title: "the CDF W-boson mass measurement in the beautiful mirror model"
 authors: 
 - admin
 - Jiayin Gu
 - Lian-Tao Wang
-date: "2023-05-09T00:00:00Z"
+date: "2023-05-09T00:01:00Z"
 doi: "https://doi.org/10.1103/PhysRevD.107.095013"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-09T00:00:00Z"
+publishDate: "2023-05-09T00:10:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
