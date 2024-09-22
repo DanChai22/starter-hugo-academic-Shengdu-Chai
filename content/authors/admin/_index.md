@@ -1,6 +1,6 @@
 ---
 title: "Shengdu Chai "
-role: Undergraduate
+role: PhD student
 avatar_filename: avatar.jpg
 bio: physics students
 interests:
