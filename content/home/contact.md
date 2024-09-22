@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: sdchai19@fudan.edu.cn
+  email: sdchai24@m.fudan.edu.cn
   phone: (+86)13968589013
   address:
     street: 220 Handan Rd, Yangpu District
