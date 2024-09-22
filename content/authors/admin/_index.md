@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: physics students
 interests:
   - CMT
-  - Ai
-  - Ai4Sci or Sci4Ai
+  - AI
+  - AI4SCI
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,6 +33,9 @@ education:
     - course: BSc in Physics
       institution: Fudan University
       year: 2024
+    - course: PhD in Physics
+      institution: Fudan University
+      year: 2028
 superuser: true
 last_name: Chai
 highlight_name: true

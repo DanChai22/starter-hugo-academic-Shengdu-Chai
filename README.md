@@ -1,7 +1,5 @@
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
-
 The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
@@ -32,7 +30,6 @@ We're an open source movement that depends on your support to stay online and th
 
 ### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
 
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
 
 ## Demo image credits
 
