@@ -56,4 +56,4 @@ Hi 👋 Shengdu Chai here.
 - 📧 Email address: [sdchai24@m.fudan.edu.cn](mailto:sdchai24@m.fudan.edu.cn)
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shengdu_CV_new.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
