@@ -1,0 +1,33 @@
+{{- $visitor_stats := .Site.Params.footer.visitor_stats -}}
+{{- if $visitor_stats.enable -}}
+<div class="visitor-stats">
+    <p id="visitor-counter">{{ $visitor_stats.counter_text }}</p>
+    <p id="visitor-location">{{ $visitor_stats.location_text }}</p>
+</div>
+{{- end -}}
+
+{{- if .Site.Params.footer.copyright.enable -}}
+<div class="copyright">
+    {{- $year := now.Year -}}
+    {{- $license := .Site.Params.footer.copyright.license -}}
+    {{- $notice := .Site.Params.footer.copyright.notice | replace "{year}" $year -}}
+    {{- if $license.enable -}}
+        {{- $license_text := "" -}}
+        {{- if $license.allow_derivatives -}}
+            {{- $license_text = "CC BY" -}}
+        {{- else -}}
+            {{- $license_text = "CC BY-ND" -}}
+        {{- end -}}
+        {{- if $license.share_alike -}}
+            {{- $license_text = $license_text | printf "%s-SA" -}}
+        {{- end -}}
+        {{- if not $license.allow_commercial -}}
+            {{- $license_text = $license_text | printf "%s-NC" -}}
+        {{- end -}}
+        {{- $notice = $notice | replace "{license}" $license_text -}}
+    {{- end -}}
+    <p>{{ $notice | safeHTML }}</p>
+</div>
+{{- end -}}
+
+<script src="/js/visitor-stats.js"></script> 
