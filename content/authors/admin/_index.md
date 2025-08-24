@@ -1,12 +1,12 @@
 ---
-title: "Shengdu Chai "
-role: PhD student
+title: "Shengdu Chai"
+role: PhD Student in Physics
 avatar_filename: avatar.jpg
-bio: physics students
+bio: "Physics researcher specializing in AI for Science. Passionate about applying machine learning techniques to solve condensed matter problems."
 interests:
-  - CMT
-  - AI
-  - AI4SCI
+  - AI for Science (AI4SCI)
+  - Condensed Matter Theory (CMT)
+  - Neural Network Quantum States
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,17 +30,17 @@ organizations:
     url: https://www.fudan.edu.cn/en/
 education:
   courses:
-    - course: BSc in Physics
-      institution: Fudan University
-      year: 2024
     - course: PhD in Physics
       institution: Fudan University
-      year: 2028
+      year: 2024-present
+    - course: BSc in Physics
+      institution: Fudan University
+      year: 2019-2024
 superuser: true
 last_name: Chai
 highlight_name: true
 first_name: Shengdu
-email: sdchai19@fudan.edu.cn
+email: sdchai24@m.fudan.edu.cn
 ---
 Hi 👋 Shengdu Chai here.
 
@@ -53,7 +53,11 @@ Hi 👋 Shengdu Chai here.
     - 🔧 Past research experiences are about High Energy Physics, including a work on W mass and Simulation Based Inference
         - Advisor: [Jiayin Gu @ Fudan](https://inspirehep.net/authors/1274618?ui-citation-summary=true) and [Lian-Tao Wang @ UChicago](https://inspirehep.net/authors/984146?ui-citation-summary=true)
         - You can find them on my [inspire](https://inspirehep.net/authors/2617322?ui-citation-summary=true)
-- 📧 Email address: [sdchai24@m.fudan.edu.cn](mailto:sdchai24@m.fudan.edu.cn)
+I'm always interested in discussing physics, AI, and potential collaborations. Feel free to reach out!
 
+- 📧 **Email**: [sdchai24@m.fudan.edu.cn](mailto:sdchai24@m.fudan.edu.cn)
+- 🐦 **Twitter**: [@ShengduChai](https://twitter.com/ShengduChai)
+- 📚 **Google Scholar**: [Shengdu Chai](https://scholar.google.com/citations?user=X3om7pwAAAAJ&hl=en&oi=ao)
+- 💻 **GitHub**: [DanChai22](https://github.com/DanChai22)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
