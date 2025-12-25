@@ -56,7 +56,6 @@ Hi 👋 Shengdu Chai here.
 I'm always interested in discussing physics, AI, and potential collaborations. Feel free to reach out!
 
 - 📧 **Email**: [sdchai24@m.fudan.edu.cn](mailto:sdchai24@m.fudan.edu.cn)
-- 🐦 **Twitter**: [@ShengduChai](https://twitter.com/ShengduChai)
 - 📚 **Google Scholar**: [Shengdu Chai](https://scholar.google.com/citations?user=X3om7pwAAAAJ&hl=en&oi=ao)
 - 💻 **GitHub**: [DanChai22](https://github.com/DanChai22)
 
