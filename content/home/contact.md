@@ -26,7 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: sdchai24@m.fudan.edu.cn
-  phone: (+86)13968589013
   address:
     street: 220 Handan Rd, Yangpu District
     city: Shanghai
@@ -40,11 +39,6 @@ content:
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/ShengduChai'
 
 design:
   columns: '2'
