@@ -13,10 +13,6 @@ external_link: ''
 # focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/ShengduChai
   - name: PDF
     url: https://arxiv.org/pdf/2212.09253.pdf
 url_code: ''

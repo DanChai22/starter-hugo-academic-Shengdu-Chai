@@ -13,10 +13,6 @@ external_link: ''
 # focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/ShengduChai
   - name: Slides
     url: https://indico.ihep.ac.cn/event/17020/contributions/119266/attachments/64351/75173/machine_learning_on_eeww_CEPC.pdf
 url_code: ''
