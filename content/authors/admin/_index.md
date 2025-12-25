@@ -4,8 +4,8 @@ role: PhD Student in Physics
 avatar_filename: avatar.jpg
 bio: "Physics researcher specializing in AI for Science. Passionate about applying machine learning techniques to solve condensed matter problems."
 interests:
-  - AI for Science (AI4SCI)
-  - Condensed Matter Theory (CMT)
+  - AI for Science
+  - Strongly Correlated Many-Body Systems
   - Neural Network Quantum States
 social:
   - icon: envelope
