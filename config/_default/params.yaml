@@ -116,3 +116,59 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+# # SITE SETUP
+# # Guide: https://wowchemy.com/docs/getting-started/
+# # Documentation: https://wowchemy.com/docs/
+# # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# # Appearance
+
+# hugoblox:
+#   schema: "2.0"
+#   identity:
+#     name: Shengdu Chai
+#     type: person
+#     tagline: AI4Science Researcher | Fudan University
+#     description: |-
+#       Hi 👋 Shengdu Chai here.
+
+#       - 🏃‍ Currently working on **AI for Science (Physics)**.
+#           - Graduate student at Fudan University.
+#               - Advisor: [Xincheng Xie 
+#   theme:
+#     mode: system
+#     pack: default
+#     colors:
+#       primary: ""
+#       secondary: ""
+#       neutral: ""
+#   typography:
+#     font: sans
+#     size: md
+#   layout:
+#     radius: md
+#     spacing: comfortable
+#     avatar_shape: circle
+#   header:
+#     enable: true
+#     style: navbar
+#     sticky: true
+#     align: center
+#     search: true
+#     theme_toggle: true
+#   footer:
+#     style: minimal
+#     language_switcher: true
+#   copyright:
+#     notice: © {year} {name}
+#   content:
+#     math:
+#       enable: false
+#     toc:
+#       enable: true
+#     reading_time:
+#       enable: true
+#   search:
+#     enable: true
+
