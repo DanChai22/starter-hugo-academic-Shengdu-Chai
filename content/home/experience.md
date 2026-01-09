@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: experience
 date_format: Jan 2006
 experience:
@@ -7,8 +7,8 @@ experience:
     company_url: https://inspirehep.net/authors/984146?ui-citation-summary=true&ui-exclude-self-citations=true
     company_logo: ""
     location: University of Chicago
-    date_start: 2022-07-01
-    date_end: 2022-09-30
+    date_start: 2022-07
+    date_end: 2022-09
     description: |-2
         * Explained both the new W boson mass $m_W^{\rm CDF-II}$ reported by Fermi Lab and the long existed discrepancy of forward-backward asymmetry $A_{FB}^{0,b}$ by introducing new vector-like quarks
         * Explored the model properties by performing a global electroweak fit. Found that the model is consistent with the current direct-search limits at the LHC, the HL-LHC, can cover most of the regions of the parameter space preferred by the electroweak fit. Determined that the one-loop contribution to Higgs couplings in this model was also relevant, which is consistent on current measurement and may be excluded on future collider
@@ -18,13 +18,24 @@ experience:
     company_url: https://inspirehep.net/authors/1274618?ui-citation-summary=true&ui-exclude-self-citations=true
     company_logo: ""
     location: Fudan University
-    date_start: 2021-11-01
-    date_end: 2022-09-30
+    date_start: 2022-06
+    date_end: 2024-01
     description: |-2
         * Aimed to apply machine learning techniques to the phenomenological analyses of the Standard Model Effective Field Theory (SMEFT), focusing on the measurements at future lepton colliders
         * Performed machine learning methods with simulations of $e^{+}e^{-} \to W^{+} W^{-} $, including some systematic effects to determine the likelihood ratio in terms of the Wilson coefficients of dimension-six operators in this process. 
         * Determined that the machine learning method performed better than the traditional methods, such as Optimal Observable, which corrected the large bias of model parameters and gave strong constraints
-        * Planned to explore the applications of these methods to other processes, such as top-pair productions, and using the more realistic datasets from colliders
+        * Found the bias has a scaling law with the number of training samples, with more training samples, the bias can be reduced to a negligible level
+  - title: Probing BSM effects with machine learning
+    company: Shanghai AI Lab & Fudan University
+    company_url: https://inspirehep.net/authors/1274618?ui-citation-summary=true&ui-exclude-self-citations=true
+    company_logo: ""
+    location: Shanghai AI Lab & Fudan University
+    date_start: 2022-06
+    date_end: 2024-01
+    description: |-2
+        * Developed a general-purpose Neural Network Variational Monte Carlo (NNVMC) framework for high-precision ground-state calculations of hydrogen solids, extending beyond the Born–Oppenheimer (BO) approximation by incorporating Coulomb interactions and nuclear quantum effects
+        * Extended NNVMC to the NPT ensemble, enabling joint optimization of crystal structures and wave functions; scaled simulations from 32 to 200 particles via forward-only geometry optimization. 
+        * Predicted a candidate crystal structure for hydrogen phase II through NPT ensemble simulations, suggesting the possible existence of a new quantum phase.
 widget_id: Research Experience 1
 headless: true
 weight: 40
@@ -32,4 +43,4 @@ title: Research Experience
 subtitle: null
 design:
   columns: "2"
----
+--- -->
